@@ -1,0 +1,5 @@
+﻿  Base_01.cpp
+  Base_02.cpp
+E:\Project\CPP\IO\01_Base\Base_02.cpp(15,28): warning C4305: инициализация: усечение из "double" в "float"
+  Создание кода...
+  01_Base.vcxproj -> C:\Users\VladosKON\source\repos\2021-CPP-Lab\Debug\01_Base.exe
